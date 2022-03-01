@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Wild's poem. In nova fert animus, &amp;c, or, A new song to an old friend from an old poet, upon the hopeful new Parliament.</title>
+            <author>Wild, Robert, 1609-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06898</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[79]</idno>
+            <idno type="EEBO-CITATION">99886898</idno>
+            <idno type="PROQUEST">ocm99886898</idno>
+            <idno type="VID">181409</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06898)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181409)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[80])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Wild's poem. In nova fert animus, &amp;c, or, A new song to an old friend from an old poet, upon the hopeful new Parliament.</title>
+                  <author>Wild, Robert, 1609-1679.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "We are all tainted with the Athenian-itch,".</note>
+                  <note>In two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political poetry, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181409:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>Dr. Wild's Poem. <hi>IN NOVA FERT ANIM<g ref="char:V">Ʋ</g>S,</hi> &amp;c, OR, A NEW SONG TO AN OLD FRIEND from an OLD POET, Upon the Hopeful New Parliament.</head>
+            <lg>
+               <l>WE are All tainted with the <hi>Athenian</hi>-Itch,</l>
+               <l>News, and new Things do the whole World bewitch.</l>
+               <l>Who would be Old, or in Old faſhions Trade?</l>
+               <l>Even an Old Whore would fain go for a Maid:</l>
+               <l>The Modeſt of both Sexes, buy new Graces,</l>
+               <l>Of Perriwigs for Pates, and Paint for Faces.</l>
+               <l>Some wear new Teeth in an old Mouth; and ſome</l>
+               <l>Carve a new Noſe out of an aged Bum.</l>
+               <l>Old <hi>Heſiod's</hi> gods Immortal Youth enjoy:</l>
+               <l>
+                  <hi>Cupid,</hi> though Blind, yet ſtill goes for a Boy;</l>
+               <l>Under one Hood Hypocrite <hi>Janus</hi> too,</l>
+               <l>Carries two faccs, one Old, th'other New.</l>
+               <l>
+                  <hi>Apollo</hi> wears no Beard, but ſtill looks young;</l>
+               <l>
+                  <hi>Diana, Pallas, Venus,</hi> all the throng</l>
+               <l>Of Muſes Graces, Nymphs, look Brisk and Gay,</l>
+               <l>Priding themſelves in a perpetual <hi>May.</hi>
+               </l>
+               <l>Whiles doting <hi>Saturn, Pluto, Proſerpin,</hi>
+               </l>
+               <l>At their own ugly Wrinkles Rage and Grin;</l>
+               <l>The very Furies in their looks do twine;</l>
+               <l>Snakes, whoſe embroydered skyns nenew their ſhine;</l>
+               <l>And nothing makes Great <hi>Juno</hi> chafe and ſcold,</l>
+               <l>But <hi>Joves</hi> new Miſſes ſlighting her as Old.</l>
+               <l>Poets, who others can Immortal make,</l>
+               <l>When they grow Gray, their Lawrels them forſake;</l>
+               <l>And ſeek young Temples, where they may grow Green;</l>
+               <l>No Palſie-hands may waſh in <hi>Hypocrene;</hi>
+               </l>
+               <l>'Twas not Terſe Clarret, Eggs, and Muskadine,</l>
+               <l>Nor Goblets Crown'd with <hi>Greek</hi> or <hi>Spaniſh</hi> Wine,</l>
+               <l>Could make new Flames in Old <hi>Ben Johnſons</hi> Veins,</l>
+               <l>But his Attempts prov'd lank and languid ſtrains:</l>
+               <l>His <hi>New Inn</hi> (ſo he nam'd his youngeſt Play)</l>
+               <l>Prov'd a blind Ale-houſe, cry'd down the firſt Day:</l>
+               <l>His own dull Epitaph—<hi>Here lies Ben Johnſon,</hi>
+               </l>
+               <l>(Half drunken too) He Hickcupt—<hi>who was once one.</hi>
+               </l>
+               <l>Ah! this ſad <hi>once one! once</hi> we <hi>Trojans</hi> were;</l>
+               <l>Oh, better never, if not ſtill we are.</l>
+               <l>Rhymes, of Old Men, <hi>Iliack</hi> paſſions be,</l>
+               <l>When that ſhould downward go, comes up we ſee,</l>
+               <l>And are like <hi>Jews</hi>-Ears in an Elder-Tree;</l>
+               <l>When Spectacles do once beſtride the Noſe,</l>
+               <l>The Poet's Gallop turns to ſtumbling-Proſe.</l>
+               <l>Sir, I am Old, Cold, Mould; and you might hope</l>
+               <l>To ſee an <hi>Alderman</hi> dance on a Rope,</l>
+               <l>A <hi>Judg</hi> to act a Gallant in a Play,</l>
+               <l>Or an Old <hi>Pluraliſt</hi> Preach twice a day;</l>
+               <l>Of a Thin <hi>Taylor</hi> make a Valiant Knight,</l>
+               <l>Or a <hi>good Subject</hi> of a <hi>Jeſuite;</hi>
+               </l>
+               <l>As an old Bald-pate (ſuch as mine- you know)</l>
+               <l>Should make his Hair, or Wit and Fancy grow</l>
+               <l>Nor is there need that ſuch a Block as I</l>
+               <l>Should now be hew'd into a <hi>Mercury.</hi>
+               </l>
+               <l>When Winter's gone, the Owl his foot may ſpare,</l>
+               <l>And to the <hi>Nightingales</hi> reſign the Air.</l>
+               <l>Such is the beautiful new face of things:</l>
+               <l>By Heavens kind Influences, and the Kings,</l>
+               <l>Joy ſhould inſpire; and all in meaſures move,</l>
+               <l>And every Citizen a <hi>Virgil</hi> prove.</l>
+               <l>Each <hi>Proteſtant</hi> turn Poet; and who not</l>
+               <l>Should be ſuſpected guilty of the <hi>Plot;</hi>
+               </l>
+               <l>If, now the day doth dawn, our Cocks forbear</l>
+               <l>To clap their Wings and Crow, you well may ſwear,</l>
+               <l>It is their want of Loyalty, not Wit,</l>
+               <l>That makes them ſullen, and ſo ſilent ſit.</l>
+               <l>
+                  <hi>Galli</hi> of <hi>Gallick</hi> kind—I'le ſay no more,</l>
+               <l>But that their Combs are Cut, and they are ſore;</l>
+               <l>Yet to provoke them, my old Cock ſhall Crow,</l>
+               <l>That ſo his Eccho round the Town may go.</l>
+            </lg>
+            <lg>
+               <head>Upon the New PARLIAMENT.</head>
+               <l>MY Landlord underprop't his Houſe ſome years,</l>
+               <l>Was often warn'd—'Twould fall about his Ears;</l>
+               <l>For the main Timber, That above, and under,</l>
+               <l>By every Blaſt was apt to rend aſunder.</l>
+               <l>This year He gently took all down, and then</l>
+               <l>What of the Old prov'd ſound, did ſerve agen.</l>
+               <l>May all the New be Heart of <hi>Engliſh</hi> Oak,</l>
+               <l>And the whole Houſe ſtand firm from fatal ſtrok,</l>
+               <l>And nothing in't, the Founder e're provoke.</l>
+               <l>My <hi>Grandam,</hi> when her Bees were old and done,</l>
+               <l>Burnt the old Stock, and a new Hive begun;</l>
+               <l>And in one year ſhe found a greater ſtore</l>
+               <l>Of <hi>Wax</hi> and <hi>Honey</hi> then in all before.</l>
+               <l>Variety and Novelty delights;</l>
+               <l>Old Shooes and Mouldy Bread are <hi>Gibeonites.</hi>
+               </l>
+               <l>When Cloaths grow thread-bare, and breeds Vermin too,</l>
+               <l>To <hi>Long Lane</hi> with them, and put on ſome new:</l>
+               <l>When VVine turns Vinegar—All Art is vain,</l>
+               <l>The VVorld can never make it Wine again.</l>
+               <l>'Tis time to wean that Child, who bites the Breaſt;</l>
+               <l>And Chaſe thoſe fowls that do befowl their Neſt.</l>
+               <l>When <hi>Nolls</hi> Noſe found the Rump began to ſmell;</l>
+               <l>He dock't it, and the Nation lik't it well.</l>
+               <l>Caſt the old-mark't and greazy Cards away,</l>
+               <l>And give's a new Pack, elſe we will not play;</l>
+               <l>Nothing but Pork, and Pork, and Pork, to eat!</l>
+               <l>Good Lanlord give's freſh COMMANS for our Meat.</l>
+               <l>
+                  <hi>Trent</hi> Council Thirty years lay ſows'd in pickle,</l>
+               <l>Until it prov'd a ſtinking Conventicle.</l>
+               <l>And now Old <hi>Rome</hi> plays over her old Tricks,</l>
+               <l>This <hi>Seventy-nine,</hi> ſhall pay for <hi>Sixty-ſix:</hi>
+               </l>
+               <l>Out of the Fire, like new refined Gold,</l>
+               <l>How bright new <hi>London</hi> looks above the Old,</l>
+               <l>All Creatures under Old Corruptions groan,</l>
+               <l>And for a New Creation make their moan:</l>
+               <l>The <hi>Phoenix</hi> (of her ſelf grown weary) dyes</l>
+               <l>Unto ſucceſſion a burnt-ſacrifice.</l>
+               <l>Old Eagles breed bad Hawks, and they worſe Kites,</l>
+               <l>And they blind Buzzard (as Old <hi>Pliny</hi> Writes),</l>
+               <l>Deans, Prebends, Chaplains think themſelves have wrong,</l>
+               <l>When <hi>Biſhops</hi> live unmercifully long;</l>
+               <l>And poor <hi>Diſſenters</hi> beg they may aſcend</l>
+               <l>Into a Pulpit from the Tables end.</l>
+               <l>And who hath not by good experience found</l>
+               <l>Beſt Crops are gained by new-broken ground,</l>
+               <l>And the firſt ſeed—OATS ſifted clean and ſound?</l>
+               <l>But yet Old Friends, Old Gold, Old King, I praiſe:</l>
+               <l>Old <hi>Tyburn</hi> take them who do otherwiſe:</l>
+               <l>Heaven Chaſe the Vultur from our Eagles Neſt,</l>
+               <l>And let no Ravens this <hi>March</hi>-Brood moleſt?</l>
+               <l>
+                  <hi>So Sings poor Robin Redbreſt.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
